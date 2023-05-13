@@ -11,6 +11,12 @@
 .card-total div{
   line-height: 40px;
 }
+.back{
+  font-size: 2em;
+  color:black;
+  text-shadow: 2px 2px pink;
+  font-family: "Dancing Script";
+}
 table {
   width: 100%;
   border-collapse: collapse;
@@ -1473,5 +1479,10 @@ body {
   }
   .location p{
     text-align: center;
+  }
+  .card-total{
+    width:100%;
+    float:none;
+    margin:0;
   }
 }
